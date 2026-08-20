@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-j3rw36.barodaplus.in/sitemap.xml
